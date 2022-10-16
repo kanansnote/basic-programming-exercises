@@ -9,3 +9,7 @@ Created: Oct 14, 2022
 2. pythonproject 2 - Location Data
 
 Created: Oct 15, 2022
+
+3. pythonproject3 - Measure Heart Rate Data
+
+Created: Oct 16, 2022
