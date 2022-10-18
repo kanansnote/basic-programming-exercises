@@ -21,3 +21,7 @@ Created: Oct 16, 2022
 5. pythonproject5 - Survey Data Insights
 
 Created: Oct 16, 2022
+
+6. pythonproject6 - Doober Fare Calculator
+
+Created: Oct 18, 2022
