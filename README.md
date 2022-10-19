@@ -25,3 +25,7 @@ Created: Oct 16, 2022
 6. pythonproject6 - Doober Fare Calculator
 
 Created: Oct 18, 2022
+
+7. pythonproject7 - Compound Interest Calculator
+
+Created: Oct 20, 2022
