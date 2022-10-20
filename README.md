@@ -30,6 +30,6 @@ Created: Oct 18, 2022
 
 Created: Oct 20, 2022
 
-8. pythonproject8 - 
+8. pythonproject8 - Shipping Cost Calculator
 
 Created: Oct 20, 2022
