@@ -29,3 +29,7 @@ Created: Oct 18, 2022
 7. pythonproject7 - Compound Interest Calculator
 
 Created: Oct 20, 2022
+
+8. pythonproject8 - 
+
+Created: Oct 20, 2022
