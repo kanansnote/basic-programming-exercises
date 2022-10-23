@@ -34,6 +34,6 @@ Created: Oct 20, 2022
 
 Created: Oct 20, 2022
 
-9. pythonproject9 - Shipping Cost Calculator
+9. pythonproject9 - Humidity Monitor
 
 Created: Oct 23, 2022
