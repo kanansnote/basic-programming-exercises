@@ -37,3 +37,7 @@ Created: Oct 20, 2022
 9. pythonproject9 - Humidity Monitor
 
 Created: Oct 23, 2022
+
+10. pythonproject10 - New Product Rating
+
+Created: Oct 24, 2022
