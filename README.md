@@ -41,3 +41,8 @@ Created: Oct 23, 2022
 10. pythonproject10 - New Product Rating
 
 Created: Oct 24, 2022
+
+11. pythonproject11 - Stocks Tracker
+
+Created: Oct 24, 2022
+
