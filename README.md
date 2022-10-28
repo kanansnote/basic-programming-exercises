@@ -25,3 +25,5 @@ Basic codes written in Python programming language. The repository includes:
 11. pythonproject11 - Stocks Tracker (Oct 24, 2022)
 
 12. pythonproject12 - Customers Service Queue System (Oct 28, 2022)
+
+13. pythonproject13 - Team Size Checker (Oct 28, 2022)
