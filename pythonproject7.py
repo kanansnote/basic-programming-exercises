@@ -1,3 +1,5 @@
+# Compound Interest Calculator
+
 account = 100
 interest_rate = 0.004
 years = 3
@@ -10,3 +12,5 @@ while counter <= years:
     account += accrued_interest
     print(f"year {counter}:{account}")
     counter += 1
+
+# Oct 20, 2022
