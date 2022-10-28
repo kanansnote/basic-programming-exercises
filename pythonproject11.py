@@ -13,4 +13,4 @@ print(apple_stocks[1])
 print("lowest value:")
 print(apple_stocks[2])
 
-# Created: Oct 24, 2022
+# Oct 24, 2022
