@@ -16,4 +16,4 @@ print(customer)
 print("Visit counter:")
 print(counter)
 
-# Created: Oct 28, 2022
+# Oct 28, 2022
