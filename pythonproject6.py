@@ -1,3 +1,5 @@
+#  Doober Fare Calculator
+
 ride_type = "Black"
 credits = 4
 
@@ -19,3 +21,5 @@ if credits > 0:
 
 print("Final Price:")
 print(final_price)
+
+# Oct 18, 2022
