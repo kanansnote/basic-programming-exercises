@@ -1,3 +1,5 @@
+# Survey Data Insights
+
 frequency = "once a week"
 intensity = "low"
 
@@ -8,3 +10,5 @@ print(highly_active)
 high_intensity = intensity = "high"
 print("High intensity sports")
 print(high_intensity)
+
+# Oct 16, 2022
