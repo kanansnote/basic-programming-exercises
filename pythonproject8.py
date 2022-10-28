@@ -1,3 +1,5 @@
+# Shipping Cost Calculator
+
 international_shipping = True
 
 total = 150
@@ -15,3 +17,5 @@ else:
     shipping_cost += 5
 
 print(f"Shipping cost: {shipping_cost}")
+
+# Oct 20, 2022
