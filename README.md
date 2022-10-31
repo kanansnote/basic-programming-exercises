@@ -19,3 +19,4 @@ Basic codes written in Python programming language. The repository includes:
 15. pythonproject15 - Product Rating Analysis (Oct 28, 2022)
 16. pythonproject16 - Stock Manager (Oct 29, 2022)
 17. pythonproject17 - Game Data (Oct 29, 2022)
+18. pythonproject18 - Transforming DNA to RNA (Oct 31, 2022)
