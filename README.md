@@ -1,6 +1,6 @@
 # pythonbasics
 
-The repository includes learningwithmimo folder that is based of simple written programs in Python programming language:
+The repository includes learningwithmimo folder that is based of simple written programs in Python:
 
 1. pythonproject1 - Smart Light Switch (Oct 14, 2022)
 2. pythonproject2 - Location Data (Oct 15, 2022)
