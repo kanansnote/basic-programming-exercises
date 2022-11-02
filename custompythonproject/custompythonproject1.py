@@ -1,4 +1,4 @@
-# Basic Rock, Paper, Scissors Game
+# "Rock, Paper, Scissors" Game
 
 import random
 user_action = input("Enter a choice (rock, paper, scissors): ")
