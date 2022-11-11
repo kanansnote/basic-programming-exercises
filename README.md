@@ -1,4 +1,4 @@
-# pythonbasics
+# programmingbasics
 
 The repository includes folders: 
 
