@@ -21,3 +21,6 @@ This folder is based of simple written programs in Python:
 19. Membership Processor (Nov 2, 2022)
 20. Kilometer Converter (Nov 11, 2022)
 21. Comparing Dataset Entries (Nov 11, 2022)
+22. User Database (Nov 14, 2022)
+23. Finding Outliers (Nov 14, 2022)
+24. Collecting Data Points (Nov 14, 2022)
