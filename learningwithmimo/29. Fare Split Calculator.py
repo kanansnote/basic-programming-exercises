@@ -1,4 +1,4 @@
-# Fare split calculator
+# Fare Split Calculator
 
 def split_fare(fare, passengers, feature_cost):
     share = fare/passengers
