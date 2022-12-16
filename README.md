@@ -1,8 +1,5 @@
-# programmingbasics
+# Basic programming exercises
 
-The repository includes folders: 
+This repository contains folders and written codes that were created during the learning process:
 
-1. learningwithmimo
-2. custompythonprojects
-3. javabasics
-4. cppbasics
+### JavaBasics, CppBasics, LearningWithMimo
