@@ -1,4 +1,4 @@
-// Created: Feb 09, 2022 | Edited: Mar 11, 2023
+// Annual Salary Calculation
 
 #include <iostream>
 using namespace std;
@@ -12,3 +12,5 @@ int main()
 	cout << "In 10 years you will earn " << annualSalary * 10;
 	system("pause>0");
 }
+
+// Created: Feb 09, 2022 | Edited: Mar 11, 2023
