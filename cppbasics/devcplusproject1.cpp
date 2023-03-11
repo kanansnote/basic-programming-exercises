@@ -1,4 +1,4 @@
-// Arithmetic Operations 1
+// Arithmetic Operations 1 (Azerbaijani)
 
 #include <iostream>
 using namespace std;
