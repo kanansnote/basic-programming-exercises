@@ -1,4 +1,4 @@
-// Increment - Prefix (English)
+// Prefix Increment Operator (English)
 
 #include "pch.h"
 #include <iostream>
