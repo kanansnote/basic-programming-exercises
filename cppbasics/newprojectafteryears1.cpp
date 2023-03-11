@@ -13,4 +13,4 @@ int main()
 	system("pause>0");
 }
 
-// Created: Feb 09, 2022 | Edited: Mar 11, 2023
+// Feb 09, 2022 | Mar 11, 2023
