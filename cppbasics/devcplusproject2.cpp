@@ -23,5 +23,5 @@ int main ()
 	cout << "\nEdedleri bir-birine vurduq."<<" Cavab = ";
 	cout << z;
 	cout << "\n(x+y)/(x-y) ifadesini hell etdik."<<" Cavab = ";
-	cout << (x + y) / ( x - y);
+	cout << (x + y) / (x - y);
 }
