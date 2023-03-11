@@ -1,4 +1,4 @@
-// A Mathematical Operation - Addition 2 (English)
+// An Arithmetic Operation - Addition (English)
 
 #include "pch.h"
 #include <iostream>
