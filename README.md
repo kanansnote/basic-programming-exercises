@@ -1,3 +1,3 @@
 # Basic programming exercises
 
-### This repository contains folders and written codes that were created during the learning process.
+### This repository contains folders with written codes built during the learning process.
