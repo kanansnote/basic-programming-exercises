@@ -1,4 +1,4 @@
-// Created: Oct 16, 2018 | Edited: Mar 11, 2023
+// Basic Line (English)
 
 #include "pch.h"
 #include <iostream>
@@ -12,3 +12,5 @@ int main()
 	cout << "Hello there \n" << "That's awesome!";
 	return 0;
 }
+
+// Created: Oct 16, 2018 | Edited: Mar 11, 2023
