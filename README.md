@@ -1,3 +1,3 @@
-# Basic programming exercises
+## Basic programming exercises
 
-### This repository contains folders with codes that was written during the learning process.
+This repository contains folders with small programs written during my exciting journey of learning and improving my basic understanding of programming skills. 
