@@ -1,5 +1,4 @@
-# Venn Diagram
-# I want to write a venn diagram in python that indicates my interests, skills and needs which eventually can help me to choose a career.
+# Basic Venn Diagram
 
 from matplotlib import pyplot as plt
 from matplotlib_venn import venn3
