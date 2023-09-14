@@ -1,4 +1,4 @@
-// Ice Cream Budget - Sep 13, 2023
+// Ice Cream Budget - Sept 13, 2023
 
 let price = 2.50;
 let campers = 15;

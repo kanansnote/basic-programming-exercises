@@ -1,4 +1,4 @@
-// Converter Program - Sep 13, 2023
+// Converter Program - Sept 13, 2023
 
 const miles = 24;
 const kilometers = 40;
