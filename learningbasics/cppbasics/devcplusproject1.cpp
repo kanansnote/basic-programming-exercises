@@ -22,7 +22,4 @@ int main ()
 	cout << z;	
 }
 
-/*
-Date Created - Jan 26, 2017
-Last Modified - Sept 14, 2023
-*/
+// Jan 26, 2017 | Mar 12, 2023

@@ -13,7 +13,4 @@ int main()
 	return 0;
 }
 
-/*
-Date Created - Oct 16, 2018
-Last Modified - Sept 14, 2023
-*/
+// Oct 16, 2018 | Mar 12, 2023

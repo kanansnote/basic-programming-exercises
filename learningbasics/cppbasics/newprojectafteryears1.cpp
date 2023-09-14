@@ -13,7 +13,4 @@ int main()
 	system("pause>0");
 }
 
-/*
-Date Created - Feb 09, 2022
-Last Modified - Sept 14, 2023
-*/
+// Feb 09, 2022 | Mar 12, 2023

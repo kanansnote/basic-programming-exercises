@@ -26,7 +26,4 @@ int main ()
 	cout << (x + y) / (x - y);
 }
 
-/*
-Date Created - Jan 27, 2017
-Last Modified - Sept 14, 2023
-*/
+// Jan 27, 2017 | Mar 12, 2023
