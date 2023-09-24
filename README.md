@@ -21,4 +21,4 @@ After a significant break following my first and last freelance job in my career
 
 Now, I'm using the web version of [Mimo](https://mimo.org/), which is currently in beta, but it seems to be a valuable tool for improving my knowledge of specific programming languages (despite some occasional issues with the exercises).
 
-Of course, **ChatGPT & Bing Chat** is always up there to assist me whenever I encounter difficulties in understanding code.
+Of course, **ChatGPT** & **Bing Chat** is always up there to assist me whenever I encounter difficulties in understanding code.
