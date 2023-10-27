@@ -18,6 +18,4 @@ In my Bachelor's studies, I dabbled in writing some code in ``C++``. I wasn't re
 
 After a significant break following my first and last freelance job in my career, I rekindled my interest in programming by starting my **learning journey** with ``Python`` through the Android app called ["Mimo"](https://play.google.com/store/apps/details?id=com.getmimo). Over the course of a month, this learning experience helped me grasp the fundamentals of programming.
 
-Now, I continue using the Android and web version of [Mimo](https://mimo.org/) (currently in beta, by the way) that seems to be a valuable tool for improving my knowledge of specific programming languages (despite some occasional issues with the exercises).
-
 Of course, **ChatGPT** & **Bing Chat** is always up there to assist me whenever I encounter difficulties in understanding code.
