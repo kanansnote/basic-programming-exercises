@@ -1,4 +1,4 @@
-# My Basic Programming Exercises
+# Basic Programming Exercises
 
 This repository contains folders with small programs written of learning and improving my basic understanding of programming skills.
 
