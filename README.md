@@ -3,7 +3,7 @@
 This repository contains folders with small programs written of learning and improving my basic understanding of programming skills.
 
 ## Explored Languages
-<div class="Programming Languages">
+<div class="progLanguages">
 	<img alt="Python" src="https://img.shields.io/badge/Python-%23009ADD.svg?style=flat&logo=python&logoColor=yellow"/>
 	<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/>
 	<img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white"/>
@@ -14,10 +14,14 @@ This repository contains folders with small programs written of learning and imp
 
 ## Learning Journey
 
-In my Bachelor's studies, I dabbled in writing some code in ``C++``. I wasn't really into it, so that led me to explore different interests during education. Occasionally, I would motivate myself to do some coding stuff (even briefly considered another language, like ``Java``), but I gave up after a few days of trying.
+In my Bachelor's studies, I dabbled in writing some code in ``C++``. I wasn't really into it, so that led me 
+to explore different interests during education. Occasionally, I would motivate myself to do some coding stuff 
+(even briefly considered another language, like ``Java``), but I gave up after a few days of trying.
 
-After a significant break following my first and last freelance job in my career, I rekindled my interest in programming by starting my **learning journey** with ``Python`` through the Android app called ["Mimo"](https://play.google.com/store/apps/details?id=com.getmimo). Over the course of a month, this learning experience helped me grasp the fundamentals of programming.
+After a significant break following my first and last freelance job in my career, 
+I rekindled my interest in programming by starting my **learning journey** with ``Python`` through the Android app 
+called ["Mimo"](https://play.google.com/store/apps/details?id=com.getmimo). Over the course of a month, 
+this learning experience helped me grasp the fundamentals of programming.
 
-Now, I continue using the Android and web version of [Mimo](https://mimo.org/) (currently in beta, by the way) that seems to be a valuable tool for improving my knowledge of specific programming languages (despite some occasional issues with the exercises).
-
-Of course, **ChatGPT** & **Bing Chat** is always up there to assist me whenever I encounter difficulties in understanding code.
+Now, I continue using the Android version of Mimo to enhance my knowledge of specific programming languages and certainly, 
+**ChatGPT** & **Bing Chat** is always up there to assist me whenever I encounter difficulties in understanding code.
